@@ -37,3 +37,5 @@ Due to obvious reasons, this repository cannot be licensed. I am **not** the own
 Re-uploading is prohibited, as there is no quality control over it. If you want to make a video about this texture pack, please link this repository in the description. You don't have to worry about YouTube bots being angry at a GitHub link, because even Google uses it.
 
 Do you want to modify this texture pack? You are free to do that for your own use. Do you want to share it? You are also free to do that, but with one condition: you will only share the files that you changed or added, and instruct the users how to install them over my texture pack.
+
+**Para os brasileiros:** não sejam babacas de fazer reupload, colocar o seu link e não citar a fonte original do pacote de texturas. O texto acima foi escrito especialmente para vocês. Caso não entendam inglês, usem o Google Tradutor ou DeepL. 
